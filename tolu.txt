@@ -1,0 +1,1 @@
+This is a new txt file which has been highlighted green. VS code knows this is a new file that is only saved on the local repo
